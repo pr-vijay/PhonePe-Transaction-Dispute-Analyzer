@@ -111,5 +111,6 @@ Select **Kernel $\rightarrow$ Restart & Run All** to generate the reports and vi
 ---
 
 ## 👤 Author
-* **Developer**: P.R. Vijay (`prvijaydev-bli`)
+* **Developer**: P.R. Vijay ([@pr-vijay](https://github.com/pr-vijay))
 * **Project**: PhonePe Transaction Dispute Analyzer (AlmaBetter Industrial Capstone)
+
